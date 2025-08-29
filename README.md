@@ -1,7 +1,7 @@
 # ToDo Application - Modern Android Client
 
-![Uygulama Logosu](<<img width="512" height="512" alt="to-do-list (2)" src="https://github.com/user-attachments/assets/90708b8d-a525-4b23-83a7-c11497655615" />
->)
+(<<img width="512" height="512" alt="to-do-list (2)" src="https://github.com/user-attachments/assets/90708b8d-a525-4b23-83a7-c11497655615" />
+
 
 Bu proje, staj dönemimde geliştirdiğim, modern Android geliştirme prensiplerini ve kütüphanelerini kullanan, zengin özelliklere sahip bir ToDo (Yapılacaklar Listesi) uygulamasıdır. Uygulama, C# ve ASP.NET Core ile yazılmış bir backend API'si ile haberleşmektedir.
 
