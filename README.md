@@ -26,10 +26,5 @@ Bu projenin temel amacı, bir mobil uygulamanın uçtan uca nasıl geliştirildi
 - **Veri Saklama:** [Jetpack DataStore](https://developer.android.com/topic/libraries/architecture/datastore) 
 - **Arka Plan İşlemleri:** [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
 - **Push Bildirimleri:** [OneSignal SDK](https://onesignal.com/)
-- 
-## 🔗 Backend API
-
-Bu uygulamanın çalışması için gereken backend servisi C# ve ASP.NET Core ile geliştirilmiştir. Kaynak kodlarına aşağıdaki repodan ulaşabilirsiniz:
-
-**🔗 [Buraya C# Backend Projenizin GitHub Linkini Ekleyin]**
+  
 
